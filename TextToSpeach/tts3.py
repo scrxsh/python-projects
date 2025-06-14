@@ -20,7 +20,7 @@ def main(page: ft.Page):
         width=500,
         multiline=True,
         min_lines=17,
-        max_lines=20,
+        max_lines=17,
         autofocus=True, 
         expand=False
     )
